@@ -1,11 +1,11 @@
 ---
-title: Sculpture
+title: Drawings
 layout: splash
 entries_layout: grid
 classes: wide
-permalink: /sculpture/
+permalink: /drawings/
 exclude:
-excerpt: Gallery of ceramic sculpture
+excerpt: Gallery of drawings
 image: /assets/images/header/fc20250212paulina-obras0328-crop.webp
 gallery:
   - url: /assets/images/galleries/drawing/fc20250212paulina-obras0328.webp
