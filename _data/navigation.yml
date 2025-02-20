@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Sculpture"
+    url: /sculpture/
+  - title: "Pottery"
+    url: /pottery/
+  - title: "Drawings"
+    url: /drawings/
   - title: "About"
     url: /about/
