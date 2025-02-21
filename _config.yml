@@ -58,15 +58,22 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Oaxaca, Mexico."
   links:
+
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/paurizzo/"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:paulinarizzo.s@gmail.com"
 
 footer:
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/paurizzo/"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:paulinarizzo.s@gmail.com"
 
 defaults:
   # _posts
