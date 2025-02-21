@@ -63,7 +63,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/paurizzo/"
     - label: "Email"
-      icon: "fab fa fa-envelope"
+      icon: "fa fa-envelope"
       url: "mailto:paulinarizzo.s@gmail.com"
 
 footer:
@@ -72,7 +72,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/paurizzo/"
     - label: "Email"
-      icon: "fab fa fa-envelope"
+      icon: "fa fa-envelope"
       url: "mailto:paulinarizzo.s@gmail.com"
 
 defaults:
