@@ -1,9 +1,9 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "Sculpture"
     url: /sculpture/
   - title: "Pottery"
     url: /pottery/
   - title: "Drawings"
     url: /drawings/
-  - title: "About"
-    url: /about/
