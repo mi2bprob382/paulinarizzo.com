@@ -6,4 +6,38 @@ classes: wide
 header:
   image: /assets/images/header/fc20250212paulina-obras0220.webp
   image_description: Ceramic sculpture made by Paulina Rizzo
+intro:
+  - excerpt: 'Paulina Rizzo is a visual artist working in media including ceramics and pen and ink in Oaxaca, Mexico.'
+feature_row:
+  - image_path: /assets/images/feature-row/fc20250212paulina-obras0279.webp
+    alt: "Ceramic sculpture made in Oaxaca, Mexico"
+    title: "Ceramic Sculpture"
+    excerpt: "[Ceramic sculptural](/sculpture/) works."
+    url: "/sculpture/"
+    btn_label: ""
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/images/feature-row/fc20250212paulina-obras0291.webp
+    alt: "Glazed clay cup"
+    title: "Pottery"
+    excerpt: "[Clay pottery](/pottery/),vessels, and utilitarian objects."
+    url: "/pottery/"
+    btn_label: ""
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/feature-row/fc20250212paulina-obras0328.webp
+    alt: "Pen and ink drawing"
+    title: "Drawings"
+    excerpt: "[Drawings](/drawings/) in pen and ink, among other media."
+    url: "/drawings/"
+    btn_label: "Browse the images"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row type="right"%}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
