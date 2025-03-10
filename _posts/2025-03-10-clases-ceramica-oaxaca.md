@@ -24,17 +24,23 @@ Proceso experimental, consiente e intuivo
 
 **La clase suelta es de $350 pesos**
 {: .text-center}
-* Incluye: 1.5 kgs de barro
-* 2 horas de clase, una quema
+Incluye:
+* 1.5 kgs de barro
+* 2 horas de clase
+* Una quema
 
-**La mensualidad es de $1300 (pagando al inicio de mes)**
+**La mensualidad es de $1300**
+(pagando al inicio de mes)
 {: .text-center}
+Incluye:
 * 4 clases al mes
-* Incluye: 1.5 kgs de barro. 2 horas de clase, una quema
-* Herramientas incluidas y asesoria en su proyecto
+* 1.5 kgs de barro
+* 2 horas de clase
+* Una quema
 
 ## Información
 
+* Herramientas incluidas y asesoria en su proyecto
 * El barro que se utiliza es Donaji de baja temperatura
 * Nivel desde principiante
 * Las clases son bilingüe
