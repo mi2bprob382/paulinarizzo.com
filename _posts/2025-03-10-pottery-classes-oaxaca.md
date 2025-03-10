@@ -22,12 +22,18 @@ Learn to design and create ceramic art through a process that is experimental, c
 
 **Single class fee: MX$350**
 {: .text-center}
-Includes: 1.5 kg of clay, 2 hour class and a single firing
+Includes:
+* 1.5 kg of clay
+* A single firing
+* 2 hour class
 
 **Monthly fee: MX$1300**
 {: .text-center}
-4 classes/month
-Includes: 1.5 kg of clay each class, 2 hour class, and a single firing
+Includes:
+* 4 classes/month
+* 1.5 kg of clay each class
+* 2 hour class
+* A single firing
 
 ## What to know
 

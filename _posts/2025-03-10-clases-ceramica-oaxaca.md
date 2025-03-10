@@ -24,14 +24,14 @@ Proceso experimental, consiente e intuivo
 
 **La clase suelta es de $350 pesos**
 {: .text-center}
-Incluye: 1.5 kgs de barro. 2 horas de clase, una quema
+* Incluye: 1.5 kgs de barro
+* 2 horas de clase, una quema
 
 **La mensualidad es de $1300 (pagando al inicio de mes)**
 {: .text-center}
-4 clases al mes
-Incluye: 1.5 kgs de barro. 2 horas de clase, una quema
-
-Herramientas incluidas y asesoria en su proyecto
+* 4 clases al mes
+* Incluye: 1.5 kgs de barro. 2 horas de clase, una quema
+* Herramientas incluidas y asesoria en su proyecto
 
 ## Información
 
@@ -41,6 +41,9 @@ Herramientas incluidas y asesoria en su proyecto
 * Martes 3:00-5:00 P.M.
 
 Favor de traer ropa cómoda para mancharse
+
 Porfavor confírmame dos días antes si deseas asistir para revisar disponibilidad de espacio y preparar el material
+
 Cupo limitado para 6 personas
+
 Bienvenidos!
