@@ -17,20 +17,23 @@ Learn to design and create ceramic art through a process that is experimental, c
 > “Since everything that comes into the human mind enters through the gates of sense, man's first reason is a reason of sense-experience. It is this that serves as a foundation for the reason of the intelligence; our first teachers in natural philosophy are our feet, hands, and eyes.”
 > <cite><a href="https://www.goodreads.com/book/show/18927710-the-works-of-jean-jacques-rousseau">Rousseau</a></cite>
 
+## Cost
+
 **Single class fee: MX$350**
-* Includes: 1.5 kg of clay, 2 hour class and a single firing
 {: .text-center}
+Includes: 1.5 kg of clay, 2 hour class and a single firing
 
 **Monthly fee: MX$1300**
-* 4 classes/month
-* Includes: 1.5 kg of clay each class, 2 hour class, and a single firing
 {: .text-center}
+4 classes/month
+Includes: 1.5 kg of clay each class, 2 hour class, and a single firing
+
+## What to know
 
 * All tools and guidance included
 * Local low-temperature clay
 * Beginner-level bilingual classes
 * Tuesdays 3:00-5:00 P.M.
-{: .text-center}
 
 Please bring comfortable clothes that you can get dirty
 

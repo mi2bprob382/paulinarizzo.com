@@ -18,6 +18,8 @@ Proceso experimental, consiente e intuivo
 > "La primera razón del hombre es una razón sensible: Nuestros primeros maestros de filosofía, son nuestros ojos, nuestras manos, nuestros pies."
 > <cite><a href="https://www.goodreads.com/book/show/18927710-the-works-of-jean-jacques-rousseau">Rousseau</a></cite>
 
+## Costo
+
 **La clase suelta es de $350 pesos**
 {: .text-center}
 Incluye: 1.5 kgs de barro. 2 horas de clase, una quema
@@ -27,6 +29,8 @@ Incluye: 1.5 kgs de barro. 2 horas de clase, una quema
 4 clases al mes
 Incluye: 1.5 kgs de barro. 2 horas de clase, una quema
 Herramientas incluidas y asesoria en su proyecto
+
+## Otros detalles
 
 * El barro que se utiliza es Donaji de baja temperatura
 * Nivel desde principiante
