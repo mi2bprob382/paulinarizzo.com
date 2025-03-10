@@ -1,5 +1,6 @@
 ---
 title: "Pottery Classes in Oaxaca"
+permalink: /oaxaca-pottery-classes/
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

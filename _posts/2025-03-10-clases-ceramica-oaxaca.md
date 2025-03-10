@@ -1,5 +1,6 @@
 ---
 title: "Clases de cerámica en Oaxaca"
+permalink: /oaxaca-clases-ceramica/
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
