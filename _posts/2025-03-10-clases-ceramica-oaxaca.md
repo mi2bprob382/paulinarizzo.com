@@ -11,6 +11,7 @@ tags:
 ![Publicidad para clases de cerámica en Oaxaca, México](/assets/images/posts/2025-03-10-clases-ceramica-oaxaca.webp)
 
 Aprende a diseñar y crear piezas únicas elaboradas a través de arcilla
+
 Proceso experimental, consiente e intuivo
 
 <!--more-->
@@ -28,6 +29,7 @@ Incluye: 1.5 kgs de barro. 2 horas de clase, una quema
 {: .text-center}
 4 clases al mes
 Incluye: 1.5 kgs de barro. 2 horas de clase, una quema
+
 Herramientas incluidas y asesoria en su proyecto
 
 ## Otros detalles
