@@ -2,6 +2,7 @@
 title: "Clases de cerámica en Oaxaca"
 permalink: /oaxaca-clases-ceramica/
 excerpt_separator: "<!--more-->"
+read_time: false
 categories:
   - Blog
 tags:
@@ -19,7 +20,7 @@ Proceso experimental, consiente e intuivo
 > "La primera razón del hombre es una razón sensible: Nuestros primeros maestros de filosofía, son nuestros ojos, nuestras manos, nuestros pies."
 > <cite><a href="https://www.goodreads.com/book/show/18927710-the-works-of-jean-jacques-rousseau">Rousseau</a></cite>
 
-## Costo
+## Precios
 
 **La clase suelta es de $350 pesos**
 {: .text-center}
@@ -32,7 +33,7 @@ Incluye: 1.5 kgs de barro. 2 horas de clase, una quema
 
 Herramientas incluidas y asesoria en su proyecto
 
-## Otros detalles
+## Información
 
 * El barro que se utiliza es Donaji de baja temperatura
 * Nivel desde principiante
