@@ -14,7 +14,7 @@ My workshop is located in San Agustín Etla, a short walk from the [Centro de la
 
 ### Individual classes
 
-If you can't make it to my [Tuesday group classes for hand building pottery](/oaxaca-pottery-classes/), [schedule an individual class!](mailto:paulinarizzo.s@gmail.com){: .btn .btn--primary}
+If you can't make it to my [Tuesday group classes for hand building pottery](/oaxaca-pottery-classes/), [schedule an individual class!](mailto:paulinarizzo.s@gmail.com)
 
 Individual ceramics classes are also a good opportunity to learn other techniques that aren't as suited to a group setting, such as use and feeding of the pottery wheel.
 

@@ -40,7 +40,7 @@ Includes:
 **Private Classes**
 {: .text-center}
 
-If Tuesdays don't fit in your schedule or if you would like to use the pottery wheel, you can [book a private pottery class](/san-agustin-etla-private-ceramics-classes/){: .btn .btn--primary}.
+If Tuesdays don't fit in your schedule or if you would like to use the pottery wheel, you can [book a private pottery class](/san-agustin-etla-private-ceramics-classes/).
 
 ### What to know
 
