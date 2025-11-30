@@ -41,7 +41,7 @@ Cost for group private classes starts at MXN$600 per-person.
 
 ### About firing your pottery
 
-I normally fire student ceramics in a collective manner using a large kiln. Once a quantity of work large enough to fill the kiln is complete and dry, I then fire it all together. As a result, wait time to fill the kiln and fire your pieces can reach up to two months. If you need a faster turnaround for your class ceramics, please [contact me](mailto:paulinarizzo.s@gmail.com) to asses feasibility and cost for your timeline.
+I normally fire student ceramics in a collective manner using a large kiln. Once a quantity of work large enough to fill the kiln is complete and dry, I then fire it all together. As a result, wait time to fill the kiln and fire your pieces can reach up to two months. If you need a faster turnaround for your class ceramics, please [contact me](mailto:paulinarizzo.s@gmail.com) to assess feasibility and cost for your timeline.
 
 ### Contact
 
