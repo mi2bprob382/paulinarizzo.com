@@ -7,6 +7,7 @@ categories:
   - Blog
 tags:
   - Pottery Classes
+last_modified_at: 2025-11-30T11:28:13-05:00
 ---
 
 ![Publicidad para clases de cerámica en Oaxaca, México](/assets/images/posts/2025-11-30-clases-ceramica-oaxaca.webp)
