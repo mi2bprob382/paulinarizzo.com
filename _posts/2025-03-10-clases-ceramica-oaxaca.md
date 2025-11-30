@@ -29,7 +29,7 @@ Proceso experimental, consiente e intuivo
 Incluye:
 * 1.5 kgs de barro donaji
 * 2 horas de clase
-* Quema de piezas hechas en clase
+* Quema de piezas hechas en clase (sin esmalte)
 
 **La mensualidad es de $1200**
 (pagando al inicio de mes)
@@ -37,7 +37,7 @@ Incluye:
 Incluye:
 * 1.5 kgs de barro donaji en cada clase
 * Cuatro clases de 2 horas al mes
-* Quema de piezas hechas en clase
+* Quema de piezas hechas en clase (sin esmalte)
 
 **Clases privadas**
 {: .text-center}
@@ -64,3 +64,4 @@ La quema de las obras creadas en las clases es colectiva y se realiza una vez qu
 [Email](mailto:paulinarizzo.s@gmail.com){: .btn .btn--primary}
 [Whatsapp](https://wa.link/4mwc8b){: .btn .btn--primary}
 
+![Publicidad para clases de cerámica con precios y materiales incluidas](/assets/images/posts/2025-11-30-clase-que-incluye.webp)

@@ -9,7 +9,7 @@ tags:
   - Pottery Classes
 ---
 
-![Flyer for pottery clases in Oaxaca, Mexico](/assets/images/posts/2025-11-30-pottery-classes-oaxaca.webp)
+![Flyer for pottery classes in Oaxaca, Mexico](/assets/images/posts/2025-11-30-pottery-classes-oaxaca.webp)
 
 Learn to design and create ceramic art through a process that is experimental, conscious, and intuitive.
 
@@ -27,14 +27,14 @@ Learn to design and create ceramic art through a process that is experimental, c
 Includes:
 * 1.5 kg of natural clay
 * 2 hour class
-* Low-temperature firing for the pottery you create in the class
+* Low-temperature firing for the pottery you create in the class (without glaze)
 
 **Monthly fee: MX$1200**
 {: .text-center}
 Includes:
 * 1.5 kg of natural clay each class
 * Four 2-hour classes
-* Low-temperature firing for the pottery you create in the class
+* Low-temperature firing for the pottery you create in the class (without glaze)
 
 **Private Classes**
 {: .text-center}
@@ -47,7 +47,7 @@ If Tuesdays don't fit in your schedule or if you would like to use the pottery w
 * Beginner-level bilingual classes
 * Tuesdays 3:00-5:00 P.M.
 * Class size is limited to 6 people
-* Classes are held at my studio in San Agustín Etla, Oaxaca, México
+* Classes are held at my studio in San Agustín Etla, Oaxaca, Mexico
 * Please bring comfortable clothes that you can get dirty
 
 ### About firing your pottery
@@ -58,3 +58,5 @@ I normally fire student pottery in a collective manner using a large kiln. Once 
 
 [Email](mailto:paulinarizzo.s@gmail.com){: .btn .btn--primary}
 [Whatsapp](https://wa.link/4mwc8b){: .btn .btn--primary}
+
+![Flyer for pottery classes showing what materials and instruction is included](/assets/images/posts/2025-11-30-classes-what-includes.webp)
