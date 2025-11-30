@@ -11,7 +11,7 @@ tags:
 
 ![Publicidad para clases de cerámica en Oaxaca, México](/assets/images/posts/2025-11-30-clases-ceramica-oaxaca.webp)
 
-Aprende a diseñar y crear piezas únicas elaboradas a través de arcilla
+Aprende a diseñar y crear piezas únicas de cerámica elaboradas a través de arcilla
 
 Proceso experimental, consiente e intuivo
 
@@ -20,7 +20,7 @@ Proceso experimental, consiente e intuivo
 > "La primera razón del hombre es una razón sensible: Nuestros primeros maestros de filosofía, son nuestros ojos, nuestras manos, nuestros pies."
 > <cite><a href="https://www.goodreads.com/book/show/18927710-the-works-of-jean-jacques-rousseau">Rousseau</a></cite>
 
-## Clases de ceramica construcción manual en San Agustín Etla
+## Clases de construcción manual
 
 ### Precios
 
@@ -39,6 +39,11 @@ Incluye:
 * Cuatro clases de 2 horas al mes
 * Quema de piezas hechas en clase
 
+**Clases privadas**
+{: .text-center}
+
+Si tu agenda de los martes ya está llena o si quieres aprender a usar el torno, puedes [programar una clase privada de cerámica](/clases-privadas-barro-san-agustin-etla/){: .btn .btn--primary}.
+
 ### Información
 
 * Asesoria en tu proyecto y herramientas incluidas
@@ -50,9 +55,9 @@ Incluye:
 * Cupo limitado de 6 personas
 * Clases en San Agustín Etla, Oaxaca, México
 
-Por favor confírmame dos días antes si deseas asistir para revisar disponibilidad de espacio y preparar el material.
+### Sobre la quema de las piezas de cerámica
 
-Bienvenidos!
+La quema de las obras creadas en las clases es colectiva y se realiza una vez que las piezas estén secas y se llene el horno. El tiempo de espera para la quema puede tardar hasta 2 meses. En caso de requerir quema express, tiene un precio adicional.
 
 ### Contacto
 

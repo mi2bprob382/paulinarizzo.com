@@ -18,7 +18,7 @@ Learn to design and create ceramic art through a process that is experimental, c
 > “Since everything that comes into the human mind enters through the gates of sense, man's first reason is a reason of sense-experience. It is this that serves as a foundation for the reason of the intelligence; our first teachers in natural philosophy are our feet, hands, and eyes.”
 > <cite><a href="https://www.goodreads.com/book/show/18927710-the-works-of-jean-jacques-rousseau">Rousseau</a></cite>
 
-## Hand building pottery classes in San Agustín Etla
+## Hand building classes
 
 ### Cost
 
@@ -27,14 +27,19 @@ Learn to design and create ceramic art through a process that is experimental, c
 Includes:
 * 1.5 kg of natural clay
 * 2 hour class
-* Low-temperature firing for the pieces you create in the class
+* Low-temperature firing for the pottery you create in the class
 
 **Monthly fee: MX$1200**
 {: .text-center}
 Includes:
 * 1.5 kg of natural clay each class
 * Four 2-hour classes
-* Low-temperature firing for the pieces you create in the class
+* Low-temperature firing for the pottery you create in the class
+
+**Private Classes**
+{: .text-center}
+
+If Tuesdays don't fit in your schedule or if you would like to use the pottery wheel, you can [book a private pottery class](/san-agustin-etla-private-ceramics-classes/){: .btn .btn--primary}.
 
 ### What to know
 
@@ -45,9 +50,9 @@ Includes:
 * Classes are held at my studio in San Agustín Etla, Oaxaca, México
 * Please bring comfortable clothes that you can get dirty
 
-If you’d like to join, please let me know two days in advance to check availability and prepare materials.
+### About firing your pottery
 
-Welcome!
+I normally fire student pottery in a collective manner using a large kiln. Once a quantity of work large enough to fill the kiln is complete and dry, I then fire it all together. As a result, wait time to fill the kiln and fire your pieces can reach up to two months. If you need a faster turnaround for your class pottery, please [contact me](mailto:paulinarizzo.s@gmail.com) to asses feasibility and cost for your timeline.
 
 ### Contact
 
