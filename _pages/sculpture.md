@@ -56,6 +56,54 @@ gallery:
     image_path: /assets/images/galleries/sculpture/fc20250212paulina-obras0277-th.webp
     alt: "Ceramic sculpture by Paulina Rizzo"
     title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra027.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra027-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra030.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra030-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra047.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra047-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra055.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra055-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra069.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra069-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra087.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra087-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra103.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra103-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra111.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra111-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra127.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra127-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra132.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra132-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra144.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra144-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/sculpture/fc20251114paulina-obra155.webp
+    image_path: /assets/images/galleries/sculpture/fc20251114paulina-obra155-th.webp
+    alt: "Ceramic sculpture by Paulina Rizzo"
+    title: ""
 ---
 
 {% include gallery id="gallery" %}
