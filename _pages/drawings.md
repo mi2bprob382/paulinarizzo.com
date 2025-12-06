@@ -5,8 +5,9 @@ entries_layout: grid
 classes: wide
 permalink: /drawings/
 exclude:
+header:
+  overlay_image: /assets/images/header/drawings-header.webp
 excerpt: Gallery of drawings
-image: /assets/images/header/drawings-header.webp
 gallery:
   - url: /assets/images/galleries/drawing/fc20250212paulina-obras0328.webp
     image_path: /assets/images/galleries/drawing/fc20250212paulina-obras0328-th.webp
