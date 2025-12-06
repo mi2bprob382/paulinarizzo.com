@@ -6,7 +6,8 @@ classes: wide
 permalink: /drawings/
 exclude:
 header:
-  overlay_image: /assets/images/header/drawings-header.webp
+  image: /assets/images/header/drawings-header.webp
+  image_description: Drawings by Paulina Rizzo hanging in an exhibition
 excerpt: Gallery of drawings
 gallery:
   - url: /assets/images/galleries/drawing/fc20250212paulina-obras0328.webp
