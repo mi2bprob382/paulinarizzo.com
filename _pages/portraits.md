@@ -3,8 +3,8 @@ title: Ceramic Jewelery
 layout: splash
 entries_layout: grid
 classes: wide
-permalink: /pottery/
-exclude:
+permalink:
+exclude: yes
 excerpt: Gallery of ceramic jewelery
 header:
   overlay_color: "#000"
