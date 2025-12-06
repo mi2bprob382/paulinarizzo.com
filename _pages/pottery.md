@@ -12,16 +12,16 @@ gallery:
     image_path: /assets/images/galleries/pottery/fc20251114paulina-obra163-th.webp
     alt: "Utilitarian ceramic vessel by Paulina Rizzo"
     title: ""
-  - url: /assets/images/galleries/pottery/fc20251114paulina-obra168.webp
-    image_path: /assets/images/galleries/pottery/fc20251114paulina-obra168-th.webp
-    alt: "Utilitarian ceramic vessel by Paulina Rizzo"
-    title: ""
   - url: /assets/images/galleries/pottery/fc20251114paulina-obra175.webp
     image_path: /assets/images/galleries/pottery/fc20251114paulina-obra175-th.webp
     alt: "Utilitarian ceramic vessel by Paulina Rizzo"
     title: ""
   - url: /assets/images/galleries/pottery/fc20251114paulina-obra181.webp
     image_path: /assets/images/galleries/pottery/fc20251114paulina-obra181-th.webp
+    alt: "Utilitarian ceramic vessel by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/pottery/fc20251114paulina-obra168.webp
+    image_path: /assets/images/galleries/pottery/fc20251114paulina-obra168-th.webp
     alt: "Utilitarian ceramic vessel by Paulina Rizzo"
     title: ""
   - url: /assets/images/galleries/pottery/fc20250212paulina-obras0288.webp
@@ -66,10 +66,6 @@ gallery:
     title: ""
   - url: /assets/images/galleries/pottery/fc20250212paulina-obras0307.webp
     image_path: /assets/images/galleries/pottery/fc20250212paulina-obras0307-th.webp
-    alt: "Utilitarian ceramic vessel by Paulina Rizzo"
-    title: ""
-  - url: /assets/images/galleries/pottery/fc20251114paulina-obra179.webp
-    image_path: /assets/images/galleries/pottery/fc20251114paulina-obra179-th.webp
     alt: "Utilitarian ceramic vessel by Paulina Rizzo"
     title: ""
   - url: /assets/images/galleries/pottery/fc20251114paulina-obra214.webp
@@ -130,6 +126,10 @@ gallery:
     title: ""
   - url: /assets/images/galleries/pottery/fc20251114paulina-obra211.webp
     image_path: /assets/images/galleries/pottery/fc20251114paulina-obra211-th.webp
+    alt: "Utilitarian ceramic vessel by Paulina Rizzo"
+    title: ""
+  - url: /assets/images/galleries/pottery/fc20251114paulina-obra179.webp
+    image_path: /assets/images/galleries/pottery/fc20251114paulina-obra179-th.webp
     alt: "Utilitarian ceramic vessel by Paulina Rizzo"
     title: ""
 ---
