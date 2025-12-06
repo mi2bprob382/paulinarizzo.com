@@ -4,6 +4,8 @@ title: "About"
 author_profile: true
 ---
 
+![Art documentation of a Paulina Rizzo exhibit](/assets/images/pages/exhibition-documentation.webp)
+
 Fuerza y fragilidad, luz y sombras, tangible e intangible. Hacer, rehacer, tocar,
 romper, torcer, deshacer, tensar.
 
