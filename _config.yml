@@ -110,6 +110,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      show_date: false
 
 collections:
   education:
