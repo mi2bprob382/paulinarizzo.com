@@ -20,6 +20,8 @@ Actualmente trabajo con dos tipos de arcillas, una de baja temperatura y una de 
 
 de lo que en una cuidad comúnmente se deja a un lado por tener otros estilos de vida y otros significados de lujos, para mi en este momento es un lujo vivir en una pueblo donde me rodean los sonidos de los pájaros, arboles, se ven las estrellas por las noches y donde tengo un taller donde puedo crear, dejar jugar a mi niña interior y compartir mis aprendizajes de vida y de cerámica.
 
+![Retrato de artista de Paulina Rizzo](/assets/images/pages/2026-03-06-paulina-rizzo-portrait.webp)
+
 ## Contact
 
 [Email](mailto:paulinarizzo.s@gmail.com){: .btn .btn--primary}

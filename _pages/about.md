@@ -20,6 +20,8 @@ My creative process is intuitive and meditative, rooted in observing, admiring, 
 
 I currently work with two types of clay—low-fire and high-fire—materials often overlooked in urban life for more conventional lifestyles and definitions of luxury. For me, true luxury is living in a village surrounded by birdsong and trees, where I can see the stars at night and have a studio where I create freely, reconnect with my inner child, and share my journey of life and ceramics with others.
 
+![Artist portrait of Paulina Rizzo](/assets/images/pages/2026-03-06-paulina-rizzo-portrait.webp)
+
 ## Contact
 
 [Email](mailto:paulinarizzo.s@gmail.com){: .btn .btn--primary}
