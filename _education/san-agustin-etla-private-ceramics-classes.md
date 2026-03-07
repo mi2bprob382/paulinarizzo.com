@@ -11,11 +11,11 @@ My workshop is located in San Agustín Etla, a short walk from the [Centro de la
 
 ![Photograph of a pottery wheel in the Paulina Rizzo pottery studio in Oaxaca](/assets/images/posts/2026-03-06-pottery-unfinished.webp)
 
-If you can't make it to my [Tuesday group classes for hand building pottery](/oaxaca-pottery-classes/), [schedule an individual class!](mailto:paulinarizzo.s@gmail.com)
+If you can't make it to my [Tuesday group classes for hand building pottery](/education/oaxaca-pottery-classes/), [schedule an individual class!](mailto:paulinarizzo.s@gmail.com)
 
 Individual ceramics classes are also a good opportunity to learn other techniques that aren't as suited to a group setting, such as use and feeding of the pottery wheel.
 
-Choose between the [1-day pottery wheel class](#1-day-pottery-wheel-class), the [3 day intensive pottery wheel course](#3-day-intensive-pottery-wheel-course), the [1-day ceramic hand-building class](#1-day-ceramic-hand-building-class), or a [private group class](#private-group-classes). Longer-format classes are also available, including a [one-week intensive ceramics course](/oaxaca-intensive-ceramics-course/).
+Choose between the [1-day pottery wheel class](#1-day-pottery-wheel-class), the [3 day intensive pottery wheel course](#3-day-intensive-pottery-wheel-course), the [1-day ceramic hand-building class](#1-day-ceramic-hand-building-class), or a [private group class](#private-group-classes). Longer-format classes are also available, including a [one-week intensive ceramics course](/education/intensive-ceramics-course-oaxaca/).
 
 ### 1-day pottery wheel class
 

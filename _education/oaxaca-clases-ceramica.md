@@ -38,7 +38,7 @@ Incluye:
 **Clases privadas**
 {: .text-center}
 
-Si tu agenda de los martes ya está llena o si quieres aprender a usar el torno, puedes [programar una clase privada de cerámica](/clases-privadas-barro-san-agustin-etla/).
+Si tu agenda de los martes ya está llena o si quieres aprender a usar el torno, puedes [programar una clase privada de cerámica](/education/clases-privadas-barro-san-agustin-etla/).
 
 ### Información
 
