@@ -67,7 +67,7 @@ author:
       icon: "fa fa-envelope"
       url: "mailto:paulinarizzo.s@gmail.com"
     - label: "Whatsapp"
-      icon: "fa fa-whatsapp"
+      icon: "fab fa-fw fa-whatsapp"
       url: "https://wa.link/4mwc8b"
 
 footer:
@@ -79,7 +79,7 @@ footer:
       icon: "fa fa-envelope"
       url: "mailto:paulinarizzo.s@gmail.com"
     - label: "Whatsapp"
-      icon: "fa fa-whatsapp"
+      icon: "fab fa-fw fa-whatsapp"
       url: "https://wa.link/4mwc8b"
 
 defaults:
