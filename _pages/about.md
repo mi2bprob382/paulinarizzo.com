@@ -19,3 +19,8 @@ Ceramics has taught me so much over these years. It has developed my patience th
 My creative process is intuitive and meditative, rooted in observing, admiring, and contemplating nature—the source of all life and sustenance. My work is defined by organic influences, soft and flowing lines that create objects with personality and soul, honoring their imperfections.
 
 I currently work with two types of clay—low-fire and high-fire—materials often overlooked in urban life for more conventional lifestyles and definitions of luxury. For me, true luxury is living in a village surrounded by birdsong and trees, where I can see the stars at night and have a studio where I create freely, reconnect with my inner child, and share my journey of life and ceramics with others.
+
+## Contact
+
+[Email](mailto:paulinarizzo.s@gmail.com){: .btn .btn--primary}
+[Whatsapp](https://wa.link/4mwc8b){: .btn .btn--primary}

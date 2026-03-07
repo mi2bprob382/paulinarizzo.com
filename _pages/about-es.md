@@ -19,3 +19,8 @@ Mi proceso de creación es intuitivo y meditativo se centra en la observación, 
 Actualmente trabajo con dos tipos de arcillas, una de baja temperatura y una de alta temperatura,
 
 de lo que en una cuidad comúnmente se deja a un lado por tener otros estilos de vida y otros significados de lujos, para mi en este momento es un lujo vivir en una pueblo donde me rodean los sonidos de los pájaros, arboles, se ven las estrellas por las noches y donde tengo un taller donde puedo crear, dejar jugar a mi niña interior y compartir mis aprendizajes de vida y de cerámica.
+
+## Contact
+
+[Email](mailto:paulinarizzo.s@gmail.com){: .btn .btn--primary}
+[Whatsapp](https://wa.link/4mwc8b){: .btn .btn--primary}
