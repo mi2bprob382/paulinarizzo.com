@@ -7,7 +7,6 @@ categories:
   - Blog
 tags:
   - Pottery Classes
-last_modified_at: 2025-11-30T11:28:13-05:00
 ---
 
 ### Clase privada individual

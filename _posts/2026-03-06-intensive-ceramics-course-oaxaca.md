@@ -7,7 +7,6 @@ categories:
   - Blog
 tags:
   - Pottery Classes
-last_modified_at: 2026-03-06T11:28:13-05:00
 ---
 
 ## Course Objective

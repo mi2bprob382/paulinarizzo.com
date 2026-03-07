@@ -7,7 +7,6 @@ categories:
   - Blog
 tags:
   - Pottery Classes
-last_modified_at: 2026-03-06T11:28:13-05:00
 ---
 
 My workshop is located in San Agustín Etla, a short walk from the [Centro de las Artes de San Agustín](https://casa.oaxaca.gob.mx/). Make a day of your visit to the area and [schedule a class with me](mailto:paulinarizzo.s@gmail.com) for after you visit *el CASA*, one of the best art destinations in Oaxaca, Mexico.
@@ -18,7 +17,7 @@ If you can't make it to my [Tuesday group classes for hand building pottery](/oa
 
 Individual ceramics classes are also a good opportunity to learn other techniques that aren't as suited to a group setting, such as use and feeding of the pottery wheel.
 
-Choose between the [1-day pottery wheel class](#1-day-pottery-wheel-class), the [3 day intensive pottery wheel course](#3-day-intensive-pottery-wheel-course), the [1-day ceramic hand-building class](#1-day-ceramic-hand-building-class), or a [private group class](#private-group-classes).
+Choose between the [1-day pottery wheel class](#1-day-pottery-wheel-class), the [3 day intensive pottery wheel course](#3-day-intensive-pottery-wheel-course), the [1-day ceramic hand-building class](#1-day-ceramic-hand-building-class), or a [private group class](#private-group-classes). Longer-format classes are also available, including a [one-week intensive ceramics course](/oaxaca-intensive-ceramics-course/).
 
 ### 1-day pottery wheel class
 
@@ -29,9 +28,9 @@ Learn how wedge (knead) clay, center the clay and do a basic pottery shape such 
 - All the natural clay you need for throwing.
 - Bilingual instruction
 
-Note: We only have one pottery wheel at the studio.
-
 The cost per individual 3 hour pottery wheel class is MXN$1,000.
+
+*Note: We only have one pottery wheel at the studio.*
 
 ### 3-day intensive pottery wheel course
 
@@ -43,6 +42,8 @@ Learn how wedge, center clay and make a cup, vase or plate, then how to trim fin
 - Bilingual instruction
 
 The cost for the individual 3 day intensive pottery wheel course is MXN$3,000. The total class time is 9 hours.
+
+*Note: We only have one pottery wheel at the studio.*
 
 ### 1-day ceramic hand-building class
 
@@ -62,7 +63,7 @@ Do you want to schedule a private ceramics class and bring a friend (or two) as 
 
 Cost for group private classes starts at MXN$600 per-person.
 
-## What is included
+#### What is included
 
 * 1.5 kg of natural clay
 * 2 hour class
