@@ -1,12 +1,8 @@
 ---
 title: "Intensive Ceramics Course in Oaxaca"
-permalink: /oaxaca-intensive-ceramics-course/
-excerpt_separator: "<!--more-->"
+permalink:
+redirect_from: /oaxaca-intensive-ceramics-course/
 read_time: false
-categories:
-  - Blog
-tags:
-  - Pottery Classes
 ---
 
 ## Course Objective

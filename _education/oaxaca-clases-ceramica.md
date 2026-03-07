@@ -1,12 +1,8 @@
 ---
 title: "Clases de cerámica en Oaxaca"
-permalink: /oaxaca-clases-ceramica/
+redirect_from: /oaxaca-clases-ceramica/
 excerpt_separator: "<!--more-->"
 read_time: false
-categories:
-  - Blog
-tags:
-  - Pottery Classes
 ---
 
 ![Publicidad para clases de cerámica en Oaxaca, México](/assets/images/posts/2025-11-30-clases-ceramica-oaxaca.webp)

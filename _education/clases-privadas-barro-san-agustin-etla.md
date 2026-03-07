@@ -1,12 +1,8 @@
 ---
 title: "Clases privadas de barro de baja temperatura en San Agustín Etla"
-permalink: /clases-privadas-barro-san-agustin-etla/
+redirect_from: /clases-privadas-barro-san-agustin-etla/
 excerpt_separator: "<!--more-->"
 read_time: false
-categories:
-  - Blog
-tags:
-  - Pottery Classes
 ---
 
 ### Clase privada individual

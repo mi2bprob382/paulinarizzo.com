@@ -1,12 +1,8 @@
 ---
 title: "Private Ceramics Classes in San Agustín Etla"
-permalink: /san-agustin-etla-private-ceramics-classes/
+redirect_from: /san-agustin-etla-private-ceramics-classes/
 excerpt_separator: "<!--more-->"
 read_time: false
-categories:
-  - Blog
-tags:
-  - Pottery Classes
 ---
 
 My workshop is located in San Agustín Etla, a short walk from the [Centro de las Artes de San Agustín](https://casa.oaxaca.gob.mx/). Make a day of your visit to the area and [schedule a class with me](mailto:paulinarizzo.s@gmail.com) for after you visit *el CASA*, one of the best art destinations in Oaxaca, Mexico.
