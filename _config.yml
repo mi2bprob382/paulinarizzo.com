@@ -81,6 +81,9 @@ footer:
     - label: "Whatsapp"
       icon: "fab fa-fw fa-whatsapp"
       url: "https://wa.link/4mwc8b"
+    - label: "Pottery Classes"
+      icon: "fab fa-fw fa-palette"
+      url: "/education/oaxaca-pottery-classes/"
 
 defaults:
   # _posts
