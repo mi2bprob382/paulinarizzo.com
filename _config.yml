@@ -66,6 +66,9 @@ author:
     - label: "Email"
       icon: "fa fa-envelope"
       url: "mailto:paulinarizzo.s@gmail.com"
+    - label: "Whatsapp"
+      icon: "fa fa-whatsapp"
+      url: "https://wa.link/4mwc8b"
 
 footer:
   links:
@@ -75,6 +78,9 @@ footer:
     - label: "Email"
       icon: "fa fa-envelope"
       url: "mailto:paulinarizzo.s@gmail.com"
+    - label: "Whatsapp"
+      icon: "fa fa-whatsapp"
+      url: "https://wa.link/4mwc8b"
 
 defaults:
   # _posts
