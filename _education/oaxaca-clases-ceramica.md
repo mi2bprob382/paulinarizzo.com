@@ -55,9 +55,20 @@ Si tu agenda de los martes ya está llena o si quieres aprender a usar el torno,
 
 La quema de las obras creadas en las clases es colectiva y se realiza una vez que las piezas estén secas y se llene el horno. El tiempo de espera para la quema puede tardar hasta 2 meses. En caso de requerir quema express, tiene un precio adicional.
 
-### Contacto
+## Lo que los alumnos dicen
+
+![Foto de Sophia Castro en una clase de construcción manual de barro en Oaxaca](/assets/images/posts/2026-03-06-student-pottery-class-300px.webp){: .align-left}
+
+Taking a ceramic class with Paulina was an experience that opened a therapeutic pathway much larger than I had imagined.
+
+She taught me how creating with my hands can access internal dimensions that we often cannot reach through thought alone. When working with clay, we are invited to step out of mental control and enter into contact with the body, the senses, and the pace of the process. In each session, we develop an intimate relationship with the material. In a time when we are so often disconnected from craftsmanship and direct contact with matter, this experience reconnects us with the gesture of creating, touching, and feeling. It also teaches us so much about life's own process: we never have complete control over the final result. For me, making ceramics was an encounter—with the earth that transforms and, above all, with myself. I came to understand that creating can be a way of ordering chaos and restoring meaning to our internal experiences.
+
+> <cite><a href="https://sophiacastro.mailchimpsites.com/">Sophia Castro</a></cite>
+Somatic Psychotherapist
+
+![Publicidad para clases de cerámica con precios y materiales incluidas](/assets/images/posts/2025-11-30-clase-que-incluye.webp)
+
+## Contacto
 
 [Email](mailto:paulinarizzo.s@gmail.com){: .btn .btn--primary}
 [Whatsapp](https://wa.link/4mwc8b){: .btn .btn--primary}
-
-![Publicidad para clases de cerámica con precios y materiales incluidas](/assets/images/posts/2025-11-30-clase-que-incluye.webp)
