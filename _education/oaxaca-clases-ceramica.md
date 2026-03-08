@@ -57,7 +57,7 @@ La quema de las obras creadas en las clases es colectiva y se realiza una vez qu
 
 ## Lo que los alumnos dicen
 
-![Foto de Sophia Castro en una clase de construcción manual de barro en Oaxaca](/assets/images/posts/2026-03-06-student-pottery-class-300px.webp)
+![Foto de Sophia Castro en una clase de construcción manual de barro en Oaxaca](/assets/images/posts/2026-03-06-student-pottery-class-300px.webp){: .align-center}
 
 > Tomar una clase de cerámica con Paulina fue una experiencia que me abrió un camino terapéutico mucho más grande de lo que imaginaba.
 

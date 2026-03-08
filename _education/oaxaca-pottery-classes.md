@@ -52,7 +52,7 @@ I normally fire student pottery in a collective manner using a large kiln. Once 
 
 ## What students have to say
 
-![Photograph of Sophia Castro in hand-building pottery class at the Paulina Rizzo ceramics studio in Oaxaca](/assets/images/posts/2026-03-06-student-pottery-class-300px.webp)
+![Photograph of Sophia Castro in hand-building pottery class at the Paulina Rizzo ceramics studio in Oaxaca](/assets/images/posts/2026-03-06-student-pottery-class-300px.webp){: .align-center}
 
 > Taking a ceramic class with Paulina was an experience that opened a therapeutic pathway much larger than I had imagined.
 
