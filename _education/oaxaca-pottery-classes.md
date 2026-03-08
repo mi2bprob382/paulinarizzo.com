@@ -63,9 +63,9 @@ I normally fire student pottery in a collective manner using a large kiln. Once 
 > Psicoterapeuta somática
 {% endcapture %}
 
+![Flyer for pottery classes showing what materials and instruction is included](/assets/images/posts/2025-11-30-classes-what-includes.webp)
+
 ## Contact
 
 [Email](mailto:paulinarizzo.s@gmail.com){: .btn .btn--primary}
 [Whatsapp](https://wa.link/4mwc8b){: .btn .btn--primary}
-
-![Flyer for pottery classes showing what materials and instruction is included](/assets/images/posts/2025-11-30-classes-what-includes.webp)
