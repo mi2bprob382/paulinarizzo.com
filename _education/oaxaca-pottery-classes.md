@@ -50,7 +50,7 @@ If Tuesdays don't fit in your schedule or if you would like to use the pottery w
 
 I normally fire student pottery in a collective manner using a large kiln. Once a quantity of work large enough to fill the kiln is complete and dry, I then fire it all together. As a result, wait time to fill the kiln and fire your pieces can reach up to two months. If you need a faster turnaround for your class pottery, please [contact me](mailto:paulinarizzo.s@gmail.com) to assess feasibility and cost for your timeline.
 
-## What other students have to say
+## What students have to say
 
 ![Photograph of Sophia Castro in hand-building pottery class at the Paulina Rizzo ceramics studio in Oaxaca](/assets/images/posts/2026-03-06-student-pottery-class-300px.webp){: .align-left}
 
