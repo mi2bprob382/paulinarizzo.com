@@ -54,14 +54,12 @@ I normally fire student pottery in a collective manner using a large kiln. Once 
 
 ![Photograph of Sophia Castro in hand-building pottery class at the Paulina Rizzo ceramics studio in Oaxaca](/assets/images/posts/2026-03-06-student-pottery-class-300px.webp){: .align-left}
 
-{% capture notice-text %}
-Taking a ceramic class with Paulina was an experience that opened a therapeutic pathway much larger than I had imagined.
+> Taking a ceramic class with Paulina was an experience that opened a therapeutic pathway much larger than I had imagined.
 
-She taught me how creating with my hands can access internal dimensions that we often cannot reach through thought alone. When working with clay, we are invited to step out of mental control and enter into contact with the body, the senses, and the pace of the process. In each session, we develop an intimate relationship with the material. In a time when we are so often disconnected from craftsmanship and direct contact with matter, this experience reconnects us with the gesture of creating, touching, and feeling. It also teaches us so much about life's own process: we never have complete control over the final result. For me, making ceramics was an encounter—with the earth that transforms and, above all, with myself. I came to understand that creating can be a way of ordering chaos and restoring meaning to our internal experiences.
-{% endcapture %}
+> She taught me how creating with my hands can access internal dimensions that we often cannot reach through thought alone. When working with clay, we are invited to step out of mental control and enter into contact with the body, the senses, and the pace of the process. In each session, we develop an intimate relationship with the material. In a time when we are so often disconnected from craftsmanship and direct contact with matter, this experience reconnects us with the gesture of creating, touching, and feeling. It also teaches us so much about life's own process: we never have complete control over the final result. For me, making ceramics was an encounter—with the earth that transforms and, above all, with myself. I came to understand that creating can be a way of ordering chaos and restoring meaning to our internal experiences.
 
 > <cite><a href="https://sophiacastro.mailchimpsites.com/">Sophia Castro</a></cite>
-Somatic Psychotherapist
+> Somatic Psychotherapist
 
 ![Flyer for pottery classes showing what materials and instruction is included](/assets/images/posts/2025-11-30-classes-what-includes.webp)
 

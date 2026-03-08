@@ -59,12 +59,12 @@ La quema de las obras creadas en las clases es colectiva y se realiza una vez qu
 
 ![Foto de Sophia Castro en una clase de construcción manual de barro en Oaxaca](/assets/images/posts/2026-03-06-student-pottery-class-300px.webp){: .align-left}
 
-Taking a ceramic class with Paulina was an experience that opened a therapeutic pathway much larger than I had imagined.
+Tomar una clase de cerámica con Paulina fue una experiencia que me abrió un camino terapéutico mucho más grande de lo que imaginaba.
 
-She taught me how creating with my hands can access internal dimensions that we often cannot reach through thought alone. When working with clay, we are invited to step out of mental control and enter into contact with the body, the senses, and the pace of the process. In each session, we develop an intimate relationship with the material. In a time when we are so often disconnected from craftsmanship and direct contact with matter, this experience reconnects us with the gesture of creating, touching, and feeling. It also teaches us so much about life's own process: we never have complete control over the final result. For me, making ceramics was an encounter—with the earth that transforms and, above all, with myself. I came to understand that creating can be a way of ordering chaos and restoring meaning to our internal experiences.
+Me enseñó cómo crear con las manos puede acceder a dimensiones internas a las que muchas veces no llegamos solo a través del pensamiento. Al trabajar con el barro, somos invitados a salir del control mental y a entrar en contacto con el cuerpo, los sentidos y el tiempo del proceso. En cada encuentro vamos creando una relación íntima con la materia. En una época que muchas veces nos aleja de lo artesanal y del contacto directo con la materia, esta experiencia nos reconecta con el gesto de crear, tocar y sentir. También nos enseña mucho sobre el propio proceso de la vida: nunca tenemos un control total sobre el resultado final. Para mí, hacer cerámica fue un encuentro: con la tierra que transforma y, sobre todo, conmigo misma. Comprendí que crear puede ser una forma de ordenar el caos y devolver sentido a las experiencias internas.
 
-> <cite><a href="https://sophiacastro.mailchimpsites.com/">Sophia Castro</a></cite>
-Somatic Psychotherapist
+<cite><a href="https://sophiacastro.mailchimpsites.com/">Sophia Castro</a></cite>
+Psicoterapeuta somática
 
 ![Publicidad para clases de cerámica con precios y materiales incluidas](/assets/images/posts/2025-11-30-clase-que-incluye.webp)
 
