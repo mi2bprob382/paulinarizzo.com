@@ -3,6 +3,7 @@ title: "Pottery Classes in Oaxaca"
 redirect_from: /oaxaca-pottery-classes/
 excerpt_separator: "<!--more-->"
 read_time: false
+published: false
 ---
 
 ![Flyer for pottery classes in Oaxaca, Mexico](/assets/images/posts/2025-11-30-pottery-classes-oaxaca.webp)

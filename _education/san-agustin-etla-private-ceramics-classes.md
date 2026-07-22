@@ -3,6 +3,7 @@ title: "Private Ceramics Classes in San Agustín Etla"
 redirect_from: /san-agustin-etla-private-ceramics-classes/
 excerpt_separator: "<!--more-->"
 read_time: false
+published: false
 ---
 
 My workshop is located in San Agustín Etla, a short walk from the [Centro de las Artes de San Agustín](https://casa.oaxaca.gob.mx/). Make a day of your visit to the area and [schedule a class with me](mailto:paulinarizzo.s@gmail.com) for after you visit *el CASA*, one of the best art destinations in Oaxaca, Mexico.
@@ -59,7 +60,7 @@ Learn how to wedge clay and develop your ceramic project with the combination of
 
 The cost per individual 3 hour private ceramic hand-building class is MXN$1000
 
-### Private group classes
+## Private group classes
 
 Do you want to schedule a private ceramics class and bring a friend (or two) as well? Sounds good! Group classes are for hand building only, unlike individual classes.
 

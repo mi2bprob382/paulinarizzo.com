@@ -8,20 +8,17 @@ header:
   overlay_image: /assets/images/hero-wheel-throwing.jpg
   actions:
     - label: "Book a Wheel Class"
-      url: "/contact/"
+      url: "/about/"
       btn_class: "btn--primary btn--large"
     - label: "← Back to All Classes"
-      url: "/"
+      url: "/education/oaxaca-pottery-classes/"
       btn_class: "btn--light-outline btn--large"
 excerpt: >
   Learn to wedge, center, and throw on the wheel with personalized 1-on-1 guidance.
   Choose a 3-hour introductory session, a 3-day intensive, or a couples experience.
   All classes include clay, tools, bisque firing, bilingual instruction, coffee & snacks.
-layout: single
-classes: wide
-toc: true
-toc_sticky: true
-toc_label: "Wheel Throwing Options"
+layout: splash
+permalink: /education/pottery-wheel-classes/
 feature_row_taster:
   - icon: "fa-solid fa-hands"
     title: "2 hrs Personalized Guidance"
@@ -97,23 +94,36 @@ feature_row_couples:
   - icon: "fa-solid fa-mug-saucer"
     title: "Coffee & Snacks"
     excerpt: "Shared refreshments."
+feature_row_studio:
+  - icon: "fa-solid fa-location-dot"
+    title: "Studio Location"
+    excerpt: "San Agustín Etla, Oaxaca, Mexico — 10 min walk from CaSa (Centro de las Artes de San Agustín)."
+  - icon: "fa-solid fa-car"
+    title: "Getting Here"
+    excerpt: "40 min drive from Oaxaca City. I send transport options (taxi, colectivo, private driver) after booking."
+  - icon: "fa-solid fa-calendar-days"
+    title: "Booking Window"
+    excerpt: "Minimum 48 hours advance. 50% deposit via secure link (Visa/MC/Amex)."
+  - icon: "fa-solid fa-shipping-fast"
+    title: "Shipping Available"
+    excerpt: "Traveling through? I can ship your fired work worldwide for an additional fee."
 feature_row_cta:
   - icon: "fa-solid fa-envelope"
     title: "Email to Book"
-    excerpt: "ceramica.etla@gmail.com"
-    url: "mailto:ceramica.etla@gmail.com?subject=Wheel Throwing Class Booking"
+    excerpt: "paulinarizzo.s@gmail.com"
+    url: "mailto:paulinarizzo.s@gmail.com?subject=Wheel Throwing Class Booking"
     btn_label: "Send Email"
     btn_class: "btn--primary"
   - icon: "fa-brands fa-whatsapp"
     title: "WhatsApp"
-    excerpt: "+52 951 123 4567"
-    url: "https://wa.me/529511234567?text=Hi%2C%20I%27d%20like%20to%20book%20a%20wheel%20throwing%20class"
+    excerpt: "+52 81 1066 6158"
+    url: "https://wa.link/4mwc8b"
     btn_label: "Message Now"
     btn_class: "btn--success"
   - icon: "fa-brands fa-instagram"
     title: "Instagram DM"
-    excerpt: "@ceramica.etla"
-    url: "https://instagram.com/ceramica.etla"
+    excerpt: "@paurizzo"
+    url: "https://www.instagram.com/paurizzo/"
     btn_label: "DM Me"
     btn_class: "btn--danger"
 ---
@@ -136,7 +146,7 @@ feature_row_cta:
 
 ---
 
-## 1️⃣ Individual Wheel Throwing Taster (3 Hours)
+## Individual Wheel Throwing Taster (3 Hours)
 
 > **One-on-one guidance** — learn to wedge (knead) clay, center on the wheel, and throw a basic cylinder/cup form.
 
@@ -147,6 +157,7 @@ feature_row_cta:
 - Cleaning up & preparing pieces for drying
 
 ### Schedule
+
 | Segment | Duration | Description |
 | :--- | :---: | :--- |
 | Guided Instruction | 2 hrs | Step-by-step with your tutor |
@@ -160,11 +171,11 @@ feature_row_cta:
 ### Price
 **MXN $1,200** per person (3-hour session)
 
-<a href="/contact/" class="btn btn--primary btn--large"><i class="fa-solid fa-calendar-plus" aria-hidden="true"></i> Book This Class</a>
+<a href="/about/" class="btn btn--primary btn--large"><i class="fa-solid fa-calendar-plus" aria-hidden="true"></i> Book This Class</a>
 
 ---
 
-## 2️⃣ 3-Day Intensive Wheel Throwing Course (9 Hours)
+## 3-Day Intensive Wheel Throwing Course (9 Hours)
 
 > **Deep-dive 1-on-1** — ideal if you want to leave with a solid foundation and finished pieces.
 
@@ -174,6 +185,7 @@ feature_row_cta:
 - **Day 3:** Trimming foot-rings, refining, surface decoration, preparing for bisque
 
 ### Daily Schedule
+
 | Day | Guided | Solo Practice | Focus |
 | :--- | :---: | :---: | :--- |
 | 1 | 2 hrs | 1 hr | Centering & basic forms |
@@ -187,15 +199,59 @@ feature_row_cta:
 ### Price
 **MXN $3,600** total (9 hours across 3 days)
 
-<a href="/contact/" class="btn btn--primary btn--large"><i class="fa-solid fa-calendar-days" aria-hidden="true"></i> Book the Intensive</a>
+<a href="/about/" class="btn btn--primary btn--large"><i class="fa-solid fa-calendar-days" aria-hidden="true"></i> Book the Intensive</a>
 
 ---
 
-## 3️⃣ Couples / Duo Wheel Throwing (3 Hours)
+## Couples / Duo Wheel Throwing (3 Hours)
 
 > **Two wheels, two people, one tutor** — share the experience with a friend, partner, or family member.
 
 ### What You'll Learn (Together)
 - Wedging & centering (each on your own wheel)
 - Throwing a cylinder / cup form
-- Supporting e
+- Supporting each other's practice during solo time
+
+### Schedule
+
+| Segment | Duration |
+| :--- | :---: |
+| Guided Instruction (both) | 2 hrs |
+| Solo Practice (both) | 1 hr |
+| **Total** | **3 hrs** |
+
+### Inclusions (Per Person)
+
+{% include feature_row id="feature_row_couples" type="left" %}
+
+### Price
+**MXN $800 per person** (3-hour session)
+
+<a href="/about/" class="btn btn--primary btn--large"><i class="fa-solid fa-user-group" aria-hidden="true"></i> Book for Two</a>
+
+---
+
+## Important Notes
+
+**Firing & Pickup / Shipping:**
+**Bisque firing** is included for pieces made during class.
+**Glaze firing** is **not included** — pieces are fired in collective kiln loads once enough work accumulates (can take **up to 2 months**).
+If you're traveling, I can **ship your finished pieces** worldwide for an additional fee. Glaze options: glossy white or transparent matte.
+{: .notice--warning}
+
+**Refreshments included:** Coffee, herbal infusions (tisanas), and light snacks provided during every session.
+{: .notice--info}
+
+---
+
+## Studio & Practical Info
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5548.175418078175!2d-96.76149839875917!3d17.19608126559878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c6e01270d914d5%3A0xf09cd8b2e3e4741!2sCentro%20de%20las%20Artes%20de%20San%20Agust%C3%ADn%20(CASA)!5e0!3m2!1ses-419!2smx!4v1784691683478!5m2!1ses-419!2smx" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" class="map-embed"></iframe>
+
+{% include feature_row id="feature_row_studio" type="center" %}
+
+---
+
+## Ready to Spin?
+
+{% include feature_row id="feature_row_cta" type="center" %}
