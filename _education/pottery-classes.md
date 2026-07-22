@@ -28,21 +28,21 @@ redirect_from:
   - /oaxaca-pottery-classes/
   - /education/oaxaca-pottery-classes/
 feature_row_intro:
-  - image_path: /assets/images/wheel-throwing-card.jpg
+  - image_path: /assets/images/posts/2026-03-06-pottery-unfinished.webp
     alt: "Wheel throwing class"
     title: "Wheel Throwing"
     excerpt: "Learn to wedge, center, and throw cylinders, cups, and vases. Private 1-on-1 or couples sessions. 3-hour sessions or 3-day intensives."
     url: "/education/pottery-wheel-classes/"
     btn_label: "View Classes"
     btn_class: "btn--primary"
-  - image_path: /assets/images/handbuilding-card.jpg
+  - image_path: /assets/images/posts/2026-03-06-student-pottery-class.webp
     alt: "Hand-building class"
     title: "Hand-Building"
     excerpt: "Pinch, coil, and slab techniques. Surface decoration with texture & color. Private individual or group classes (max 7)."
     url: "/education/hand-building-classes/"
     btn_label: "View Classes"
     btn_class: "btn--primary"
-  - image_path: /assets/images/themed-workshops-card.jpg
+  - image_path: /assets/images/posts/2026-03-06-pottery-wheel-studio.webp
     alt: "Themed workshop"
     title: "Themed Workshops"
     excerpt: "Design & make an English tea set or a V60 coffee dripper set. Specialized multi-session projects for intermediate makers."
