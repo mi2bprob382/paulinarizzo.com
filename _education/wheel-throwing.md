@@ -119,9 +119,8 @@ feature_row_cta:
     btn_class: "btn--danger"
 ---
 
-{% notice warning %}
 **Limited Wheels:** We have **only two pottery wheels** in the studio. Wheel-throwing classes are strictly private (1–2 people). Book early to secure your preferred date.
-{% endnotice %}
+{: .notice--warning}
 
 ---
 
@@ -133,9 +132,8 @@ feature_row_cta:
 | **3-Day Intensive** | 1-on-1 | 9 hrs (3 × 3 hrs) | **$3,600** | Serious beginners / visitors wanting depth |
 | **Couples / Duo** | 2 people, 2 wheels | 3 hrs (2 guided + 1 solo) | **$800 / person** | Friends, partners, family sharing a wheel |
 
-{% notice info %}
 **All wheel classes include:** natural clay, wheel use, all tools, bisque firing of pieces made in class, bilingual (EN/ES) instruction, coffee/herbal infusion & snacks.
-{% endnotice %}
+{: .notice--info}
 
 ---
 
@@ -163,7 +161,7 @@ feature_row_cta:
 ### Price
 **MXN $1,200** per person (3-hour session)
 
-{% include btn.html text="Book This Class" url="/contact/" class="btn--primary btn--large" icon="fa-solid fa-calendar-plus" %}
+<a href="/contact/" class="btn btn--primary btn--large"><i class="fa-solid fa-calendar-plus" aria-hidden="true"></i> Book This Class</a>
 
 ---
 
@@ -190,7 +188,7 @@ feature_row_cta:
 ### Price
 **MXN $3,600** total (9 hours across 3 days)
 
-{% include btn.html text="Book the Intensive" url="/contact/" class="btn--primary btn--large" icon="fa-solid fa-calendar-days" %}
+<a href="/contact/" class="btn btn--primary btn--large"><i class="fa-solid fa-calendar-days" aria-hidden="true"></i> Book the Intensive</a>
 
 ---
 
@@ -201,41 +199,4 @@ feature_row_cta:
 ### What You'll Learn (Together)
 - Wedging & centering (each on your own wheel)
 - Throwing a cylinder / cup form
-- Supporting each other's practice during solo time
-
-### Schedule
-| Segment | Duration |
-| :--- | :---: |
-| Guided Instruction (both) | 2 hrs |
-| Solo Practice (both) | 1 hr |
-| **Total** | **3 hrs** |
-
-### Inclusions (Per Person)
-
-{% include feature_row id="feature_row_couples" type="left" %}
-
-### Price
-**MXN $800 per person** (3-hour session)
-
-{% include btn.html text="Book for Two" url="/contact/" class="btn--primary btn--large" icon="fa-solid fa-user-group" %}
-
----
-
-## Important Notes
-
-{% notice warning %}
-**Firing & Pickup / Shipping:**
-**Bisque firing** is included for pieces made during class.
-**Glaze firing** is **not included** — pieces are fired in collective kiln loads once enough work accumulates (can take **up to 2 months**).
-If you're traveling, I can **ship your finished pieces** worldwide for an additional fee. Glaze options: glossy white or transparent matte.
-{% endnotice %}
-
-{% notice info %}
-**Refreshments included:** Coffee, herbal infusions (tisanas), and light snacks provided during every session.
-{% endnotice %}
-
----
-
-## Ready to Spin?
-
-{% include feature_row id="feature_row_cta" type="center" %}
+- Supporting e

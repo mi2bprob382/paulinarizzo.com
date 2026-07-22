@@ -89,9 +89,8 @@ I've been working with clay for **10 years**, and I still feel there's so much t
 
 > **All classes are private** — come solo, with a partner, or bring a group (up to 7 for hand-building). Morning or afternoon sessions available. Coffee, herbal infusions, and snacks included.
 
-{% notice info %}
 **Booking requires 48 hours advance notice.** A 50% deposit (Visa / Mastercard / Amex) secures your spot. After booking you'll receive the studio address and safe transportation options.
-{% endnotice %}
+{: .notice--info}
 
 ---
 
