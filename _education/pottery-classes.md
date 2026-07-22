@@ -21,7 +21,6 @@ excerpt: >
   and a short walk from the stunning San Agustín Arts Center. Wheel throwing, hand-building, and
   themed workshops. All classes include bilingual instruction, coffee, herbal infusions, and snacks.
 layout: splash
-permalink: /
 feature_row_intro:
   - image_path: /assets/images/wheel-throwing-card.jpg
     alt: "Wheel throwing class"

@@ -18,7 +18,6 @@ excerpt: >
   or group classes up to 7 people. Surface decoration, texture, color, and low-temp bisque firing included.
   Coffee, herbal infusions, and snacks provided.
 layout: single
-permalink: /hand-building/
 classes: wide
 toc: true
 toc_sticky: true

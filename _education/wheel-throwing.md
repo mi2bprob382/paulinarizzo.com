@@ -18,7 +18,6 @@ excerpt: >
   Choose a 3-hour introductory session, a 3-day intensive, or a couples experience.
   All classes include clay, tools, bisque firing, bilingual instruction, coffee & snacks.
 layout: single
-permalink: /wheel-throwing/
 classes: wide
 toc: true
 toc_sticky: true
