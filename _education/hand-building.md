@@ -117,7 +117,9 @@ feature_row_cta:
     btn_class: "btn--danger"
 ---
 
-{% include notice type="success" icon="fa-solid fa-users" title="Groups Welcome" content="Hand-building is the **only format available for groups** (up to 7 people). Perfect for friends, families, team building, or travel companions." %}
+{% notice success %}
+**Groups Welcome:** Hand-building is the **only format available for groups** (up to 7 people). Perfect for friends, families, team building, or travel companions.
+{% endnotice %}
 
 ---
 
@@ -128,7 +130,9 @@ feature_row_cta:
 | **Individual Private** | 1-on-1 | 3 hrs (2 guided + 1 solo) | **$1,100** | Focused skill-building, personal project |
 | **Group Private** | 2–7 people | 3 hrs (2 guided + 1 solo) | **$700 / person** | Shared experience, celebrations, retreats |
 
-{% include notice type="info" icon="fa-solid fa-circle-info" content="**All hand-building classes include:** 1.5 kg natural clay per person, 2 hrs guided instruction, 1 hr solo practice, surface decoration (texture & color), low-temp bisque firing, bilingual (EN/ES) instruction, coffee/herbal infusion & snacks." %}
+{% notice info %}
+**All hand-building classes include:** 1.5 kg natural clay per person, 2 hrs guided instruction, 1 hr solo practice, surface decoration (texture & color), low-temp bisque firing, bilingual (EN/ES) instruction, coffee/herbal infusion & snacks.
+{% endnotice %}
 
 ---
 
@@ -158,7 +162,7 @@ feature_row_cta:
 ### Price
 **MXN $1,100** per person (3-hour private session)
 
-{% include button href="/contact/" text="Book Private Session" icon="fa-solid fa-user" class="btn--primary btn--large" %}
+{% include btn.html text="Book Private Session" url="/contact/" class="btn--primary btn--large" icon="fa-solid fa-user" %}
 
 ---
 
@@ -184,13 +188,14 @@ feature_row_cta:
 ### Price
 **MXN $700 per person** (minimum 2, maximum 7)
 
-{% include button href="/contact/" text="Book Group Class" icon="fa-solid fa-users" class="btn--primary btn--large" %}
+{% include btn.html text="Book Group Class" url="/contact/" class="btn--primary btn--large" icon="fa-solid fa-users" %}
 
 ---
 
 ## Glazing & Firing — What to Expect
 
-{% include notice type="warning" icon="fa-solid fa-fire" title="Glaze Firing is Separate" content="
+{% notice warning %}
+**Glaze Firing is Separate:**
 **Bisque firing** (low-temp, unglazed) is **included** for all pieces made in class.
 
 **Glaze firing** requires a **second collective kiln load** and is **not included** in the class price.
@@ -198,7 +203,7 @@ feature_row_cta:
 - Glaze options: **Glossy White** or **Transparent Matte**
 - Pricing: based on **weight & dimensions** of each piece
 - **Shipping available worldwide** for travelers (extra cost)
-" %}
+{% endnotice %}
 
 ---
 
